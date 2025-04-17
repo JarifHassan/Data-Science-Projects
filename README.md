@@ -1,1 +1,1 @@
-All my data science projects shocased here
+All my data science projects showcased here
